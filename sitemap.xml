@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-        <url>
+  <url>
     <loc>https://estudiodoliva.com.ar/</loc>
-    </url>
+  </url>
+
+  <url>
+    <loc>https://estudiodoliva.com.ar/cobro.html</loc>
+  </url>
+
+  <url>
+    <loc>https://estudiodoliva.com.ar/danos.html</loc>
+  </url>
+
+  <url>
+    <loc>https://estudiodoliva.com.ar/desalojos.html</loc>
+  </url>
+
+  <url>
+    <loc>https://estudiodoliva.com.ar/sucesiones.html</loc>
+  </url>
+
+  <url>
+    <loc>https://estudiodoliva.com.ar/usucapion.html</loc>
+  </url>
 
 </urlset>
